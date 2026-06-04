@@ -1,0 +1,21 @@
+QUESTION: What types of entities and relationships does GraphRAG extract during the indexing phase?
+
+SYSTEM: LightRAG
+LATENCY: 15.18s
+TOKENS_IN_EST: 17
+TOKENS_OUT_EST: 158
+COST_USD_EST: $0.000097
+
+ANSWER:
+GraphRAG extracts two main types of information during the indexing phase:
+
+1. **Entities:** These are individual components that represent distinct items or concepts identified within the documents. In the context of GraphRAG, entities are derived from the documents and serve as the foundational elements that populate the knowledge graph.
+
+2. **Relationships:** These connections represent the associations between different entities. Relationships define how entities interact with or relate to each other, allowing the formation of a structured representation of knowledge.
+
+Together, these entities and relationships allow GraphRAG to create a graph-based representation that supports multi-hop reasoning and enhances the overall capability of the retrieval-augmented generation process.
+
+### References
+
+- [1] GRAPHRAG.txt
+- [2] TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation

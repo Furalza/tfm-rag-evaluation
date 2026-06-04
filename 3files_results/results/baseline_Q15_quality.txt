@@ -1,0 +1,10 @@
+QUESTION: Compare the answer quality of graph-based RAG systems versus naive RAG on complex, multi-document queries.
+
+SYSTEM: Baseline RAG
+LATENCY: 1.97s
+TOKENS_IN: 606
+TOKENS_OUT: 107
+COST_USD: $0.000155
+
+ANSWER:
+The context does not provide enough information to directly compare the answer quality of graph-based RAG systems versus naive RAG on complex, multi-document queries. While it mentions that GraphRAG introduces a graph-based paradigm for global knowledge reasoning, it also notes inefficiencies in information extraction and poor adaptability to incremental updates. In contrast, Naive RAG focuses on local information and enhances response accuracy by dynamically fetching context from databases. However, specific performance metrics or qualitative comparisons between the two methods on complex queries are not included in the provided context.

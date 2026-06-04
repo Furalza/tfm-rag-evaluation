@@ -1,0 +1,10 @@
+QUESTION: What are the computational costs of building a GraphRAG index compared to a simple vector store?
+
+SYSTEM: LightRAG
+LATENCY: 12.11s
+TOKENS_IN_EST: 21
+TOKENS_OUT_EST: 12
+COST_USD_EST: $0.000010
+
+ANSWER:
+I do not have enough information to answer that.

@@ -1,0 +1,10 @@
+QUESTION: How does chunk size selection affect retrieval precision and recall in naive RAG systems?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.65s
+TOKENS_IN: 541
+TOKENS_OUT: 37
+COST_USD: $0.000103
+
+ANSWER:
+The context does not provide specific information on how chunk size selection affects retrieval precision and recall in naive RAG systems. Therefore, I cannot answer the question clearly based on the provided context.

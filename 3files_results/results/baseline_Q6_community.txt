@@ -1,0 +1,10 @@
+QUESTION: What is the role of community detection in GraphRAG's indexing process?
+
+SYSTEM: Baseline RAG
+LATENCY: 2.57s
+TOKENS_IN: 687
+TOKENS_OUT: 56
+COST_USD: $0.000137
+
+ANSWER:
+The context does not provide enough information to clearly define the role of community detection in GraphRAG's indexing process. It mentions that existing GraphRAG methods rely on community divisions and generating community summaries, but it does not elaborate on how community detection specifically contributes to the indexing process.

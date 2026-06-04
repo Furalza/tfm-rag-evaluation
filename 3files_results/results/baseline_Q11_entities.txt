@@ -1,0 +1,10 @@
+QUESTION: What types of entities and relationships does GraphRAG extract during the indexing phase?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.47s
+TOKENS_IN: 727
+TOKENS_OUT: 70
+COST_USD: $0.000151
+
+ANSWER:
+The context does not provide specific details about the types of entities and relationships that GraphRAG extracts during the indexing phase. It mentions that GraphRAG integrates entity-relation knowledge graphs into the retrieval pipeline but does not specify the nature of the entities and relationships involved. Therefore, I cannot provide a clear answer to your question based on the given context.

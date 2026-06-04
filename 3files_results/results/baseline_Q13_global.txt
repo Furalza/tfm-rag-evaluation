@@ -1,0 +1,10 @@
+QUESTION: How does GraphRAG's global search differ from local search in terms of answer generation?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.73s
+TOKENS_IN: 609
+TOKENS_OUT: 102
+COST_USD: $0.000153
+
+ANSWER:
+The context does not provide specific details on how GraphRAG's global search differs from local search in terms of answer generation. It mentions that GraphRAG builds an entity graph with community summaries and retrieves and aggregates partial summary responses into final answers, which suggests a comprehensive approach to generating synthesized responses. However, it does not explicitly compare this global search method to a local search method or outline the differences in their answer generation processes. Therefore, I cannot provide a clear answer to the question based on the given context.

@@ -1,0 +1,20 @@
+QUESTION: What are the key limitations of Naive RAG systems?
+
+SYSTEM: Baseline RAG
+LATENCY: 4.05s
+TOKENS_IN: 580
+TOKENS_OUT: 173
+COST_USD: $0.000191
+
+ANSWER:
+The key limitations of Naive RAG systems include:
+
+1. **Heavy Reliance on LLMs**: Naive RAG heavily depends on the capabilities of large language models (LLMs), which leads to poor performance when using lightweight models.
+
+2. **Over-Reliance on Augmented Information**: Naive RAG tends to overly rely on augmented information, resulting in outputs that often echo retrieved content without providing insightful or synthesized information.
+
+3. **Indexing Issues**: Naive RAG faces challenges related to indexing, which can affect the retrieval quality.
+
+4. **Limited Reasoning Capabilities in Low Resource Situations**: While Naive RAG retains basic reasoning capabilities in low resource situations, it does not perform as well as more advanced methods.
+
+These limitations prompted the development of Advanced RAG and Modular RAG to address these shortcomings.

@@ -1,0 +1,28 @@
+# Core
+openai>=1.0.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+
+# Baseline RAG
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+chromadb>=0.4.0
+
+# LightRAG
+lightrag-hku>=0.0.1
+
+# Evaluation and visualization
+scipy>=1.11.0
+matplotlib>=3.7.0
+
+# GraphRAG (index must be pre-built separately)
+# graphrag>=0.3.0
+# Install via: pip install graphrag
+# See: https://github.com/microsoft/graphrag
+
+# Blocks-DB (AWS deployment, not reproduced locally)
+# lithops>=2.7.0
+# faiss-cpu>=1.7.0

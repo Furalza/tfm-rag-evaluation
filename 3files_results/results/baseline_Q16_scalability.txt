@@ -1,0 +1,12 @@
+QUESTION: How do GraphRAG and TagRAG differ in their ability to scale to large document corpora?
+
+SYSTEM: Baseline RAG
+LATENCY: 3.64s
+TOKENS_IN: 615
+TOKENS_OUT: 168
+COST_USD: $0.000193
+
+ANSWER:
+GraphRAG and TagRAG differ significantly in their ability to scale to large document corpora. GraphRAG relies on full graph traversal for information extraction, which can be inefficient and resource-intensive, particularly when dealing with large-scale document sets. This reliance on large-scale language models (LLMs) also limits its adaptability to smaller models, making it less efficient in terms of resource consumption.
+
+In contrast, TagRAG employs a tag-guided hierarchical knowledge graph framework that enhances global reasoning while avoiding the costly full graph traversal required by GraphRAG. This design allows TagRAG to maintain high knowledge density and broad coverage, making it more efficient and scalable as the number of documents increases. Experimental results indicate that TagRAG demonstrates superior efficiency and stable global inference capabilities in incremental scenarios, outperforming GraphRAG as the document corpus grows.

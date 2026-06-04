@@ -1,0 +1,10 @@
+QUESTION: How do graph-based RAG systems handle multi-hop reasoning better than vector-based RAG?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.92s
+TOKENS_IN: 620
+TOKENS_OUT: 86
+COST_USD: $0.000145
+
+ANSWER:
+The context does not provide enough information to directly compare how graph-based RAG systems handle multi-hop reasoning better than vector-based RAG systems. It discusses the strengths of GraphRAG systems in supporting multi-hop reasoning through structured retrieval and iterative retrieval, but it does not specifically address the performance or capabilities of vector-based RAG systems in this regard. Therefore, I cannot provide a clear answer to the question based on the given context.

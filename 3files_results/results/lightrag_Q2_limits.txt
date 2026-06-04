@@ -1,0 +1,32 @@
+QUESTION: What are the key limitations of Naive RAG systems?
+
+SYSTEM: LightRAG
+LATENCY: 0.45s
+TOKENS_IN_EST: 12
+TOKENS_OUT_EST: 324
+COST_USD_EST: $0.000196
+
+ANSWER:
+The Naive RAG system encounters several key limitations:
+
+1. **Retrieval Challenges**: 
+   - The retrieval phase in Naive RAG often struggles with precision and recall. This can lead to the selection of irrelevant or misaligned chunks of information, which may miss crucial details needed for informed responses.
+
+2. **Generation Difficulties**: 
+   - When generating responses, Naive RAG may produce hallucinations, which are inaccurate outputs that do not align with the retrieved context. Additionally, responses can suffer from issues like irrelevance, bias, or toxicity, undermining the quality and reliability of the information provided.
+
+3. **Augmentation Hurdles**: 
+   - Integrating retrieved information with various tasks can be challenging. This can result in outputs that are disjointed or incoherent, and there may be redundancy when similar information is retrieved from multiple sources, leading to repetitive responses.
+
+4. **Dependence on User Queries**: 
+   - Naive RAG directly relies on the user's original query for retrieval, which may not be optimally formulated. Poorly structured or complex queries can negatively affect the effectiveness of retrieval.
+
+5. **Complexity in Context Handling**: 
+   - The system may not adequately manage complex queries, leading to insufficient context or overly simplified responses that do not fully address the user's needs.
+
+These limitations illustrate the challenges that Naive RAG faces in effectively supporting knowledge-intensive tasks and necessitate the development of more sophisticated approaches such as Advanced RAG and TagRAG, which aim to address these issues.
+
+### References
+
+- [1] Overview of RAG
+- [2] Naive RAG Limitations and Challenges

@@ -1,0 +1,9 @@
+QUESTION: Why might graph-based RAG systems produce fewer hallucinations than naive RAG systems?
+
+SYSTEM: GraphRAG
+TYPE: reasoning
+DIFFICULTY: hard
+LATENCY: 300s
+
+ANSWER:
+TIMEOUT

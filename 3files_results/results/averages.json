@@ -1,0 +1,20 @@
+{
+  "Baseline RAG": {
+    "accuracy": 3.7,
+    "relevance": 3.9,
+    "completeness": 3.0,
+    "conciseness": 4.3
+  },
+  "GraphRAG": {
+    "accuracy": 4.7,
+    "relevance": 4.9,
+    "completeness": 4.0,
+    "conciseness": 3.7
+  },
+  "LightRAG": {
+    "accuracy": 4.5,
+    "relevance": 4.6,
+    "completeness": 4.2,
+    "conciseness": 4.0
+  }
+}

@@ -1,0 +1,10 @@
+QUESTION: How does GraphRAG improve upon standard RAG for complex reasoning tasks?
+
+SYSTEM: Baseline RAG
+LATENCY: 2.07s
+TOKENS_IN: 614
+TOKENS_OUT: 117
+COST_USD: $0.000162
+
+ANSWER:
+The context does not provide specific details on how GraphRAG improves upon standard RAG for complex reasoning tasks. It mentions that GraphRAG introduces a graph-based paradigm for global knowledge reasoning and supports structured reasoning over multi-hop paths, achieving strong performance on multi-hop QA tasks. However, it also highlights limitations such as inefficiencies in information extraction and reliance on single-shot static retrieval, which can lead to reasoning process failures if crucial evidence is missing. Therefore, while GraphRAG aims to enhance reasoning capabilities, the exact improvements over standard RAG are not clearly outlined in the provided context.

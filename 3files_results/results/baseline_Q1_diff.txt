@@ -1,0 +1,18 @@
+QUESTION: What are the main differences between Naive RAG, GraphRAG, and TagRAG?
+
+SYSTEM: Baseline RAG
+LATENCY: 4.91s
+TOKENS_IN: 586
+TOKENS_OUT: 257
+COST_USD: $0.000242
+
+ANSWER:
+The main differences between Naive RAG, GraphRAG, and TagRAG are as follows:
+
+1. **Naive RAG**: This is the earliest methodology in the RAG research paradigm. While it is cost-effective and surpasses the performance of native LLMs, it has several limitations that prompted the development of more advanced methods.
+
+2. **GraphRAG**: This method introduces a graph-based paradigm for global knowledge reasoning. However, it suffers from inefficiencies in information extraction, high resource consumption, and poor adaptability to incremental updates. GraphRAG traverses all communities but does not perform as well as TagRAG in terms of efficiency and scalability.
+
+3. **TagRAG**: This framework is designed for efficient global reasoning and scalable graph maintenance. It utilizes a tag-guided hierarchical knowledge graph approach, which allows for better integration of domain knowledge and broader information access. TagRAG demonstrates superior efficiency over GraphRAG by avoiding costly full graph traversal and maintaining a dominant average winning rate in various scenarios, particularly in incremental settings.
+
+In summary, while Naive RAG is the foundational method with limitations, GraphRAG offers a graph-based approach but lacks efficiency, and TagRAG improves upon both by providing a more efficient and scalable solution.

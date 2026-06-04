@@ -1,0 +1,10 @@
+QUESTION: What role do text embeddings play in vector-based RAG retrieval?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.99s
+TOKENS_IN: 562
+TOKENS_OUT: 96
+COST_USD: $0.000142
+
+ANSWER:
+Text embeddings play a crucial role in vector-based RAG (Retrieval-Augmented Generation) retrieval by transforming both the document chunks and user queries into vector representations. This encoding process allows for efficient similarity searches, as the retrieval system can compute similarity scores (e.g., using cosine similarity) between the embeddings of the question and the document chunks. The semantic representation capability of the embedding models is essential for accurately identifying relevant documents based on the user's query, thereby enhancing the overall retrieval performance.

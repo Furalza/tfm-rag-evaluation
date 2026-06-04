@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "Q1_diff",
+    "question": "What are the main differences between Naive RAG, GraphRAG, and TagRAG?",
+    "system": "Baseline RAG",
+    "latency_seconds": 8.77,
+    "tokens_input": 585,
+    "tokens_output": 262,
+    "cost_usd": 0.000245,
+    "answer": "The main differences between Naive RAG, GraphRAG, and TagRAG are as follows:\n\n1. **Naive RAG**: This is the earliest methodology in the RAG research paradigm. While it is cost-effective and surpasses the performance of native LLMs, it has several limitations that prompted the development of more advanced methods.\n\n2. **GraphRAG**: This method introduces a graph-based paradigm for global knowledge reasoning. However, it suffers from inefficiencies in information extraction, high resource consumption, and poor adaptability to incremental updates. GraphRAG traverses all communities but does not perform as well as TagRAG in terms of efficiency and scalability.\n\n3. **TagRAG**: This framework is designed for efficient global reasoning and scalable graph maintenance. It utilizes a tag-guided hierarchical knowledge graph approach, which allows for better performance in incremental scenarios. TagRAG has a stable global inference capability, maintains a dominant average winning rate over other methods, and excels in diversity by leveraging domain knowledge integration. It avoids the costly full graph traversal required by GraphRAG, demonstrating superior efficiency.\n\nIn summary, TagRAG improves upon the limitations of both Naive RAG and GraphRAG by offering better efficiency, scalability, and performance in diverse information retrieval and reasoning tasks."
+  },
+  {
+    "question_id": "Q2_limits",
+    "question": "What are the key limitations of Naive RAG systems?",
+    "system": "Baseline RAG",
+    "latency_seconds": 10.13,
+    "tokens_input": 579,
+    "tokens_output": 177,
+    "cost_usd": 0.000193,
+    "answer": "The key limitations of Naive RAG systems include:\n\n1. **Heavy Reliance on LLMs**: Naive RAG methods depend significantly on the capabilities of large language models (LLMs), which leads to poor performance when using lightweight models.\n\n2. **Over-Reliance on Augmented Information**: These systems tend to overly depend on augmented information, resulting in outputs that often just echo retrieved content without providing insightful or synthesized information.\n\n3. **Indexing Issues**: Naive RAG faces challenges related to indexing, which can affect the retrieval quality.\n\n4. **Limited Reasoning Capabilities in Low Resource Situations**: While Naive RAG retains basic reasoning capabilities in low resource situations, it does not perform as well as more advanced methods.\n\nOverall, these limitations highlight the need for improvements, which are addressed by Advanced RAG and Modular RAG."
+  },
+  {
+    "question_id": "Q3_improve",
+    "question": "How does GraphRAG improve upon standard RAG for complex reasoning tasks?",
+    "system": "Baseline RAG",
+    "latency_seconds": 3.27,
+    "tokens_input": 613,
+    "tokens_output": 120,
+    "cost_usd": 0.000164,
+    "answer": "GraphRAG improves upon standard RAG for complex reasoning tasks by introducing a graph-based paradigm for global knowledge reasoning. This approach allows for structured reasoning over multi-hop paths, which is essential for addressing complex queries that require multiple steps of inference. Unlike standard RAG methods that may rely on single-shot static retrieval, GraphRAG enhances the reasoning process by utilizing a more dynamic and interconnected representation of knowledge, enabling it to better handle multi-hop question answering tasks. However, it also faces challenges such as inefficiencies in information extraction and high resource consumption, which the proposed TagRAG framework aims to address."
+  },
+  {
+    "question_id": "Q4_efficiency",
+    "question": "Compare the efficiency of GraphRAG and TagRAG in terms of construction and retrieval time.",
+    "system": "Baseline RAG",
+    "latency_seconds": 1.88,
+    "tokens_input": 642,
+    "tokens_output": 77,
+    "cost_usd": 0.000142,
+    "answer": "TagRAG demonstrates significantly better efficiency compared to GraphRAG in both construction and retrieval time. Specifically, TagRAG achieves a 14.6× gain in construction efficiency and a 1.9× gain in retrieval efficiency over GraphRAG. In contrast, GraphRAG is noted for its weak performance and extremely high construction and inference costs, making it less efficient overall."
+  },
+  {
+    "question_id": "Q5_usecases",
+    "question": "In which cases is standard RAG still useful compared to graph-based approaches?",
+    "system": "Baseline RAG",
+    "latency_seconds": 1.21,
+    "tokens_input": 593,
+    "tokens_output": 38,
+    "cost_usd": 0.000112,
+    "answer": "The context does not provide specific information about the cases in which standard RAG is still useful compared to graph-based approaches. Therefore, I cannot answer the question clearly based on the provided context."
+  },
+  {
+    "question_id": "Q6_community",
+    "question": "What is the role of community detection in GraphRAG's indexing process?",
+    "system": "Baseline RAG",
+    "latency_seconds": 1.94,
+    "tokens_input": 686,
+    "tokens_output": 71,
+    "cost_usd": 0.000145,
+    "answer": "The context does not provide specific information about the role of community detection in GraphRAG's indexing process. It mentions that existing GraphRAG methods rely on community divisions and generating community summaries, but it does not elaborate on how community detection specifically contributes to the indexing process. Therefore, I cannot provide a clear answer to the question based on the given context."
+  },
+  {
+    "question_id": "Q7_multihop",
+    "question": "How do graph-based RAG systems handle multi-hop reasoning questions better than vector-based RAG?",
+    "system": "Baseline RAG",
+    "latency_seconds": 2.0,
+    "tokens_input": 667,
+    "tokens_output": 41,
+    "cost_usd": 0.000125,
+    "answer": "The context does not provide specific information comparing graph-based RAG systems to vector-based RAG systems in terms of handling multi-hop reasoning questions. Therefore, I cannot answer the question based on the provided context."
+  },
+  {
+    "question_id": "Q8_tagchain",
+    "question": "What are tag chains in TagRAG and how do they enable hierarchical knowledge retrieval?",
+    "system": "Baseline RAG",
+    "latency_seconds": 2.72,
+    "tokens_input": 565,
+    "tokens_output": 119,
+    "cost_usd": 0.000156,
+    "answer": "In TagRAG, tag chains refer to the organized sequences of object tags that are linked to predefined root domain tags, forming hierarchical domain tag chains. These tag chains enable hierarchical knowledge retrieval by structuring knowledge in a way that allows for efficient localization and synthesis of relevant information during the retrieval-augmented generation process. When a question is posed, the system searches the hierarchical tag knowledge graph to retrieve domain-centric tag chains, which helps in integrating and summarizing knowledge from object tags connected to those domain tags. This structured representation facilitates comprehensive and global reasoning, allowing for the generation of well-informed answers."
+  },
+  {
+    "question_id": "Q9_cost",
+    "question": "What are the computational costs associated with building a GraphRAG index compared to a simple vector store?",
+    "system": "Baseline RAG",
+    "latency_seconds": 2.52,
+    "tokens_input": 644,
+    "tokens_output": 91,
+    "cost_usd": 0.000151,
+    "answer": "The context does not provide specific details about the computational costs associated with building a GraphRAG index compared to a simple vector store. It mentions that existing Graph RAG methods incur substantial costs due to high-intensity model calls and frequent full graph reconstructions for dynamic data. However, it does not quantify these costs or directly compare them to those of a simple vector store. Therefore, I cannot provide a clear answer to the question based on the given context."
+  },
+  {
+    "question_id": "Q10_hybrid",
+    "question": "How could combining vector databases and graph databases create a more effective hybrid RAG system?",
+    "system": "Baseline RAG",
+    "latency_seconds": 1.42,
+    "tokens_input": 604,
+    "tokens_output": 39,
+    "cost_usd": 0.000114,
+    "answer": "The context does not provide specific information on how combining vector databases and graph databases could create a more effective hybrid RAG system. Therefore, I cannot provide a detailed answer based on the given information."
+  }
+]

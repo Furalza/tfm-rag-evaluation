@@ -1,0 +1,10 @@
+QUESTION: How does LightRAG reduce the computational overhead of graph-based retrieval compared to GraphRAG?
+
+SYSTEM: Baseline RAG
+LATENCY: 2.27s
+TOKENS_IN: 612
+TOKENS_OUT: 125
+COST_USD: $0.000167
+
+ANSWER:
+LightRAG reduces the computational overhead of graph-based retrieval compared to GraphRAG by integrating lightweight graph structures with text indexing and employing dual-level retrieval. This approach allows for efficient and adaptive knowledge access while enabling real-time updates in dynamic environments. In contrast, GraphRAG relies on larger-scale language models for construction, retrieval, and generation, which can lead to higher resource consumption and limit its applicability to smaller models. Additionally, LightRAG's focus on structural simplification for graph construction contributes to its efficiency, allowing it to extract sparse entities and loose relations without the need for a full-scale graph, thus minimizing computational demands.

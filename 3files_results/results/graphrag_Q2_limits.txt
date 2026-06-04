@@ -1,0 +1,15 @@
+QUESTION: What are the key limitations of Naive RAG systems?
+
+SYSTEM: GraphRAG
+TYPE: factual
+DIFFICULTY: easy
+LATENCY: 215.3s
+
+ANSWER:
+ERROR: +--------------------- Traceback (most recent call last) ---------------------+
+| C:\Users\alper\Documents\TFM_GraphRAG\.venv\Lib\site-packages\graphrag\cli\ |
+| main.py:451 in _query_cli                                                   |
+|                                                                             |
+|   448                 verbose=verbose,                                      |
+|   449             )                                                         |
+|   450       

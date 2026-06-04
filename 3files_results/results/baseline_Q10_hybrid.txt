@@ -1,0 +1,10 @@
+QUESTION: How could combining vector databases and graph databases create a more effective hybrid RAG system?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.53s
+TOKENS_IN: 605
+TOKENS_OUT: 26
+COST_USD: $0.000106
+
+ANSWER:
+The context does not provide enough information to answer how combining vector databases and graph databases could create a more effective hybrid RAG system.

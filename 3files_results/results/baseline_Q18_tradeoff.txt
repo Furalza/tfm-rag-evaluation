@@ -1,0 +1,10 @@
+QUESTION: When would a practitioner choose LightRAG over GraphRAG despite GraphRAG's higher answer quality?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.9s
+TOKENS_IN: 677
+TOKENS_OUT: 104
+COST_USD: $0.000164
+
+ANSWER:
+A practitioner might choose LightRAG over GraphRAG despite GraphRAG's higher answer quality in scenarios where resource consumption is a critical factor. LightRAG is designed to be a lightweight baseline that integrates graph structures with dual-level text indexing for fast and real-time updates, making it more suitable for applications with limited computational resources or when quick responses are needed. Additionally, if the practitioner is working with smaller models or requires efficient processing without the need for extensive global knowledge synthesis, LightRAG would be the preferred choice.

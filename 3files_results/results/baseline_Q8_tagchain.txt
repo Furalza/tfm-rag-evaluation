@@ -1,0 +1,10 @@
+QUESTION: What are tag chains in TagRAG and how do they enable hierarchical knowledge retrieval?
+
+SYSTEM: Baseline RAG
+LATENCY: 15.97s
+TOKENS_IN: 566
+TOKENS_OUT: 106
+COST_USD: $0.000148
+
+ANSWER:
+Tag chains in TagRAG refer to the organized sequences of object tags that are linked to predefined root domain tags, forming hierarchical structures. These tag chains enable hierarchical knowledge retrieval by providing a structured representation of knowledge that allows for efficient localization and synthesis of relevant information during the retrieval-augmented generation process. When a question is posed, the hierarchical tag knowledge graph is searched to retrieve domain-centric tag chains, which helps in integrating and summarizing knowledge from object tags connected to the domain tags, ultimately leading to the generation of comprehensive answers.

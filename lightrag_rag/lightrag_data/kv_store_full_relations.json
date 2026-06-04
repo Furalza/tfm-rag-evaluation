@@ -1,0 +1,3698 @@
+{
+  "doc-85131a61f2f4c7d724e35ef59bd6a9db": {
+    "relation_pairs": [
+      [
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs",
+        "Wei Ping"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Machine Learning Model"
+      ],
+      [
+        "C. Wainwright",
+        "L. Ouyang"
+      ],
+      [
+        "James Zou",
+        "Sheng Wang"
+      ],
+      [
+        "HippoRAG2",
+        "Musique"
+      ],
+      [
+        "Ragtruth",
+        "Tong Zhang"
+      ],
+      [
+        "D. Roth",
+        "X. Li"
+      ],
+      [
+        "Domain Tag Chain Organization",
+        "Mix"
+      ],
+      [
+        "Dor Muhlgay",
+        "In-context Retrieval-Augmented Language Models"
+      ],
+      [
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation",
+        "Y. Lu"
+      ],
+      [
+        "RAPTOR",
+        "RAPTOR w/ BGEC"
+      ],
+      [
+        "Area Under the Curve (AUC)",
+        "LightRAG"
+      ],
+      [
+        "A. Asai",
+        "When Not to Trust Language Models"
+      ],
+      [
+        "Juanzi Li",
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models"
+      ],
+      [
+        "PopQA",
+        "QA"
+      ],
+      [
+        "GFM-RAG",
+        "GraphRAG"
+      ],
+      [
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models",
+        "Shulin Cao"
+      ],
+      [
+        "Domain Tag Chain Organization",
+        "TagRAG"
+      ],
+      [
+        "Hannaneh Hajishirzi",
+        "Language Model Trustworthiness"
+      ],
+      [
+        "BDTR Framework",
+        "DTR"
+      ],
+      [
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models",
+        "Xiaoyin Che"
+      ],
+      [
+        "Dataset Details",
+        "Mix"
+      ],
+      [
+        "Domain Tag Chain",
+        "LLMs"
+      ],
+      [
+        "GraphRAG (Edge et al., 2024)",
+        "LightRAG"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Recursive Feature Elimination"
+      ],
+      [
+        "Information-Seeking Questions",
+        "K. Lo"
+      ],
+      [
+        "Key-Value Pair Generation",
+        "LightRAG"
+      ],
+      [
+        "Chao Huang",
+        "University of Hong Kong"
+      ],
+      [
+        "D. Zhou",
+        "H. S. Zheng"
+      ],
+      [
+        "Hypothesis Knowledge Graph",
+        "X. Jiang"
+      ],
+      [
+        "Graph Rag Approach",
+        "Retrieval-Augmented Large Language Models"
+      ],
+      [
+        "F. Petroni",
+        "P. Lewis"
+      ],
+      [
+        "Retrieve, Summarize, Plan",
+        "Zhouyu Jiang"
+      ],
+      [
+        "Anh Tuan Luu",
+        "Recipe for a General, Powerful, Scalable Graph Transformer"
+      ],
+      [
+        "RAPTOR",
+        "RAPTOR w/ DTR"
+      ],
+      [
+        "S. Ghosh",
+        "Using External Off-policy Speech-to-text Mappings in Contextual End-to-end Automated Speech Recognition"
+      ],
+      [
+        "S.-Q. Yan",
+        "Y. Zhu"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Practical Considerations"
+      ],
+      [
+        "Embedding",
+        "Voyage"
+      ],
+      [
+        "HayStack",
+        "RAG Ecosystem"
+      ],
+      [
+        "Graphgpt: Graph Instruction Tuning for Large Language Models",
+        "Lixin Su"
+      ],
+      [
+        "Cardiologists",
+        "Heart Disease"
+      ],
+      [
+        "IRCOT",
+        "RAPTOR"
+      ],
+      [
+        "Gfm-rag",
+        "Linhao Luo"
+      ],
+      [
+        "Hailin Zhang",
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey"
+      ],
+      [
+        "Congrat",
+        "William Brannon"
+      ],
+      [
+        "Ragtruth",
+        "Siliang Xu"
+      ],
+      [
+        "J. Berant",
+        "Semantic Parsing on Freebase"
+      ],
+      [
+        "ARC",
+        "Multi-Choice QA QuALITY"
+      ],
+      [
+        "LLMLingua",
+        "RECOMP"
+      ],
+      [
+        "L. Gao",
+        "arXiv:2212.10496"
+      ],
+      [
+        "Entity Relation Extraction",
+        "GraphRAG"
+      ],
+      [
+        "K. Lopyrev",
+        "SQuAD"
+      ],
+      [
+        "LightRAG",
+        "TagRAG"
+      ],
+      [
+        "University of Oregon",
+        "Yu Wang"
+      ],
+      [
+        "In-context Retrieval-Augmented Language Models",
+        "Ori Ram"
+      ],
+      [
+        "LightRAG",
+        "Naive RAG (Gao et al., 2023)"
+      ],
+      [
+        "S. Sanyal",
+        "W. Yu"
+      ],
+      [
+        "Retrieval Methods",
+        "Summary of RAG Methods"
+      ],
+      [
+        "Bi",
+        "Retrieval-Generation Alignment"
+      ],
+      [
+        "LLMLingua",
+        "PRCA"
+      ],
+      [
+        "CS",
+        "TagRAG"
+      ],
+      [
+        "LLMs-Graphs Integration",
+        "LightRAG"
+      ],
+      [
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs",
+        "Yue Yu"
+      ],
+      [
+        "Augmentation",
+        "Generation"
+      ],
+      [
+        "Information-Seeking Questions",
+        "N. A. Smith"
+      ],
+      [
+        "RAG",
+        "Selfmem"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Thomas Laurent"
+      ],
+      [
+        "MuSiQue",
+        "WikiMultiHopQA"
+      ],
+      [
+        "K. Millican",
+        "S. Borgeaud"
+      ],
+      [
+        "Dawei Yin",
+        "Graphgpt: Graph Instruction Tuning for Large Language Models"
+      ],
+      [
+        "In-context Retrieval-Augmented Language Models",
+        "Yoav Levine"
+      ],
+      [
+        "P. Zhang",
+        "arXiv"
+      ],
+      [
+        "C. Zhang",
+        "L. Ouyang"
+      ],
+      [
+        "LLMs",
+        "Scaling Laws"
+      ],
+      [
+        "Embedded Methods",
+        "Feature Selection Techniques"
+      ],
+      [
+        "LSR (LM-Supervised Retriever)",
+        "PROMPTAGATOR"
+      ],
+      [
+        "Machine Translation JRC-Acquis",
+        "Math GSM8K"
+      ],
+      [
+        "Graph-r1",
+        "Zemin Kuang"
+      ],
+      [
+        "W. Kosaraju",
+        "WebGPT"
+      ],
+      [
+        "Incremental Knowledge Base",
+        "LightRAG"
+      ],
+      [
+        "Evaluation Criteria",
+        "TagRAG"
+      ],
+      [
+        "P. He",
+        "X. Ma"
+      ],
+      [
+        "Archrag",
+        "Shu Wang"
+      ],
+      [
+        "LLMs",
+        "RAG"
+      ],
+      [
+        "G-Retriever",
+        "Retrieval-Augmented Generation for Textual Graph Understanding"
+      ],
+      [
+        "Junfeng Zhao",
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework"
+      ],
+      [
+        "Rag-ex: A Generic Framework for Explaining Retrieval Augmented Generation",
+        "Viju Sudhi"
+      ],
+      [
+        "J. Wu",
+        "Scaling Laws for Neural Language Models"
+      ],
+      [
+        "Jinxin Liu",
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models"
+      ],
+      [
+        "BDTR",
+        "HotpotQA"
+      ],
+      [
+        "D. Hendrycks",
+        "M. Mazeika"
+      ],
+      [
+        "Boxin Wang",
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs"
+      ],
+      [
+        "C. Alberti",
+        "Natural Questions"
+      ],
+      [
+        "Information-Seeking Questions",
+        "P. Dasigi"
+      ],
+      [
+        "Advanced RAG",
+        "LlamaIndex"
+      ],
+      [
+        "Domain QA Qasper",
+        "QMSum"
+      ],
+      [
+        "Graph-r1",
+        "Xiaobao Wu"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Xianfeng Tang"
+      ],
+      [
+        "LlamaIndex",
+        "R. Teja"
+      ],
+      [
+        "L. Ouyang",
+        "X. Jiang"
+      ],
+      [
+        "Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation",
+        "TagRAG"
+      ],
+      [
+        "Frameworks",
+        "Our"
+      ],
+      [
+        "PKG",
+        "retriever module"
+      ],
+      [
+        "Mix",
+        "TagRAG"
+      ],
+      [
+        "RECALL",
+        "RGB"
+      ],
+      [
+        "ITERRETGEN",
+        "LLMs"
+      ],
+      [
+        "J. Sivic",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "G. Neubig",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "GraphRAG",
+        "Textract"
+      ],
+      [
+        "2WikiMultiHopQA",
+        "BDTR"
+      ],
+      [
+        "Legal",
+        "TagRAG"
+      ],
+      [
+        "HyDE",
+        "Modular RAG"
+      ],
+      [
+        "Bridge-Guided Dual-Thought-Based Retrieval (BDTR)",
+        "Graph-Based RAG (GraphRAG)"
+      ],
+      [
+        "Computational Resources",
+        "Practical Considerations"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Apurva Mody"
+      ],
+      [
+        "Knowledge Graph",
+        "RAG"
+      ],
+      [
+        "Knowledgpt",
+        "Qiu, J."
+      ],
+      [
+        "Modular RAG",
+        "Rewrite-Retrieve-Read Model"
+      ],
+      [
+        "GraphRAG",
+        "KET-RAG"
+      ],
+      [
+        "A. Roberts",
+        "N. Kandpal"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "J. Li"
+      ],
+      [
+        "Musique",
+        "RAPTOR"
+      ],
+      [
+        "Retrieval Granularity",
+        "Retrieval Source"
+      ],
+      [
+        "RAG",
+        "RAG Methods"
+      ],
+      [
+        "ChatGPT",
+        "RAG"
+      ],
+      [
+        "Retrieval-Augmented Generation for Large Language Models",
+        "Yunfan Gao"
+      ],
+      [
+        "GraphRAG",
+        "RAPTOR"
+      ],
+      [
+        "Alireza Salemi",
+        "Evaluating Retrieval Quality in Retrieval-Augmented Generation"
+      ],
+      [
+        "C. Huang",
+        "W. Shen"
+      ],
+      [
+        "Diversity",
+        "TagRAG"
+      ],
+      [
+        "Legal Dataset",
+        "LightRAG"
+      ],
+      [
+        "Query Routing",
+        "Semantic Router"
+      ],
+      [
+        "LightRAG",
+        "Retrieval Process"
+      ],
+      [
+        "Electric Vehicles",
+        "Public Transportation Infrastructure"
+      ],
+      [
+        "A. Perelygin",
+        "R. Socher"
+      ],
+      [
+        "Kangxiang Jia",
+        "Retrieval-Augmented Generation for Large Language Models"
+      ],
+      [
+        "Light RAG",
+        "TagRAG"
+      ],
+      [
+        "Jinliu Pan",
+        "Retrieval-Augmented Generation for Large Language Models"
+      ],
+      [
+        "Deduplication",
+        "LightRAG"
+      ],
+      [
+        "Recipe for a General, Powerful, Scalable Graph Transformer",
+        "Vijay Prakash Dwivedi"
+      ],
+      [
+        "IRCoT",
+        "Recursive Retrieval"
+      ],
+      [
+        "API Calls",
+        "GraphRAG"
+      ],
+      [
+        "Graph-Based Indexing",
+        "LightRAG"
+      ],
+      [
+        "A. Ray",
+        "L. Ouyang"
+      ],
+      [
+        "Fact Checking/Verification FEVER",
+        "StrategyQA"
+      ],
+      [
+        "Domain Centric Knowledge Retrieval",
+        "Hierarchical Knowledge Graph"
+      ],
+      [
+        "Ablation Studies",
+        "NaiveRAG"
+      ],
+      [
+        "Language Modeling WikiText-103",
+        "Language Understanding MMLU"
+      ],
+      [
+        "Naive RAG",
+        "RAG Frameworks"
+      ],
+      [
+        "Kashun Shum",
+        "Ragtruth"
+      ],
+      [
+        "G. Neubig",
+        "H. Hayashi"
+      ],
+      [
+        "G-Retriever",
+        "Knowledge Graphs (KGs)"
+      ],
+      [
+        "Answer 1",
+        "Query"
+      ],
+      [
+        "Answer 2",
+        "Query"
+      ],
+      [
+        "Backward Selection",
+        "Feature Selection Techniques"
+      ],
+      [
+        "In-context Retrieval-Augmented Language Models",
+        "Kevin Leyton-Brown"
+      ],
+      [
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models",
+        "Yuyang Xie"
+      ],
+      [
+        "Information Extraction",
+        "RAG"
+      ],
+      [
+        "Rag-ex: A Generic Framework for Explaining Retrieval Augmented Generation",
+        "SIGIR"
+      ],
+      [
+        "E. Perez",
+        "P. Lewis"
+      ],
+      [
+        "W. Yu",
+        "arXiv:2308.11761"
+      ],
+      [
+        "A. Radford",
+        "Scaling Laws for Neural Language Models"
+      ],
+      [
+        "Apurva Mody",
+        "Darren Edge"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Ruizhe Zhang"
+      ],
+      [
+        "L. Zha",
+        "TableGPT"
+      ],
+      [
+        "F1",
+        "GraphRAG"
+      ],
+      [
+        "Modular RAG",
+        "RAG-Fusion"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "X. E. Wang"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "J. Sivic"
+      ],
+      [
+        "Flowise AI",
+        "RAG Ecosystem"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Yann LeCun"
+      ],
+      [
+        "L. Zettlemoyer",
+        "TriviaQA"
+      ],
+      [
+        "QA",
+        "SQuAD"
+      ],
+      [
+        "Embedding",
+        "RAG"
+      ],
+      [
+        "Noise Robustness",
+        "Retrieval Quality"
+      ],
+      [
+        "Large Language Model",
+        "LightRAG"
+      ],
+      [
+        "TagRAG",
+        "Wenbiao Tao"
+      ],
+      [
+        "Bernal Jiménez Gutiérrez",
+        "From Rag to Memory: Non-Parametric Continual Learning for Large Language Models"
+      ],
+      [
+        "A. Farhadi",
+        "Y. Bisk"
+      ],
+      [
+        "X. Huang",
+        "Y. Zhang"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "S. Savarese"
+      ],
+      [
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+        "Wentao Zhang"
+      ],
+      [
+        "C. Schmid",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "GraphRAG",
+        "Qwen3-4B"
+      ],
+      [
+        "A. Rastrow",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "BDTR",
+        "BGEC"
+      ],
+      [
+        "MuSiQue",
+        "QA"
+      ],
+      [
+        "Mengshu Sun",
+        "Retrieve, Summarize, Plan"
+      ],
+      [
+        "W. Chen",
+        "Z. Shao"
+      ],
+      [
+        "Darren Edge",
+        "query-focused summarization"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "W. Xu"
+      ],
+      [
+        "D. Arora",
+        "N. Natarajan"
+      ],
+      [
+        "D. Amodei",
+        "Scaling Laws for Neural Language Models"
+      ],
+      [
+        "Multi-Query",
+        "Query Optimization"
+      ],
+      [
+        "Retrieval-Augmented Generation for Large Language Models",
+        "Yun Xiong"
+      ],
+      [
+        "Michigan State University",
+        "Shenglai Zeng"
+      ],
+      [
+        "Evaluating Retrieval Quality in Retrieval-Augmented Generation",
+        "Hamed Zamani"
+      ],
+      [
+        "M. Eckstein",
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation"
+      ],
+      [
+        "Beekeeper",
+        "Honey Bee"
+      ],
+      [
+        "Generation Difficulties",
+        "Naive RAG"
+      ],
+      [
+        "GraphRAG Variants",
+        "Implementation and Evaluation Metrics"
+      ],
+      [
+        "Multi-modal RAG",
+        "RAG Ecosystem"
+      ],
+      [
+        "H. S. Zheng",
+        "Q. V. Le"
+      ],
+      [
+        "E. Rutherford",
+        "S. Borgeaud"
+      ],
+      [
+        "Metadata Router",
+        "Query Routing"
+      ],
+      [
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs",
+        "arXiv"
+      ],
+      [
+        "Answer 2",
+        "Evaluation Criteria"
+      ],
+      [
+        "A. Kini",
+        "D. Arora"
+      ],
+      [
+        "IRCOT",
+        "Multi-Hop QA"
+      ],
+      [
+        "GraphRAG",
+        "User Satisfaction Metrics"
+      ],
+      [
+        "Enhancement Research",
+        "Yelong Shen"
+      ],
+      [
+        "Embedding",
+        "RAG System"
+      ],
+      [
+        "P. H. Seo",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "Empowerment",
+        "TagRAG"
+      ],
+      [
+        "G. Neubig",
+        "Neuro-symbolic Language Modeling with Automaton-augmented Retrieval"
+      ],
+      [
+        "Knowledge Graph Prompting",
+        "Y. Wang"
+      ],
+      [
+        "D. Cai",
+        "Y. Zhang"
+      ],
+      [
+        "Feature Selection Techniques",
+        "TagRAG"
+      ],
+      [
+        "GraphRAG",
+        "Mean Squared Error (MSE)"
+      ],
+      [
+        "RAG Technology",
+        "Weaviates Verba 11"
+      ],
+      [
+        "H. S. Zheng",
+        "X. Chen"
+      ],
+      [
+        "Bridge Documents",
+        "Multi-Hop QA"
+      ],
+      [
+        "HotpotQA",
+        "QA"
+      ],
+      [
+        "Naive RAG",
+        "User Query"
+      ],
+      [
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs",
+        "Zihan Liu"
+      ],
+      [
+        "C. Schmid",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "TagRAG",
+        "UltraDomain CS Corpus"
+      ],
+      [
+        "P. Liang",
+        "SQuAD"
+      ],
+      [
+        "T. Schick",
+        "Toolformer"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "W.-T. Yih"
+      ],
+      [
+        "Siqi Miao",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "LightRAG",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      [
+        "Abhinav Jauhri",
+        "llama 3"
+      ],
+      [
+        "D. Arora",
+        "G. Sinha"
+      ],
+      [
+        "GSS Method",
+        "Multi-modal RAG"
+      ],
+      [
+        "Language Model Trustworthiness",
+        "Victor Zhong"
+      ],
+      [
+        "LightRAG",
+        "Token Overhead"
+      ],
+      [
+        "NeurIPS",
+        "Recipe for a General, Powerful, Scalable Graph Transformer"
+      ],
+      [
+        "A. Piktus",
+        "P. Lewis"
+      ],
+      [
+        "Amazons Kendra 12",
+        "RAG Technology"
+      ],
+      [
+        "Community Summarization",
+        "GraphRAG"
+      ],
+      [
+        "GraphRAG",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "P. H. Seo"
+      ],
+      [
+        "Lei Hou",
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Xavier Bresson"
+      ],
+      [
+        "Qwen Team",
+        "Qwen3 Technical Report"
+      ],
+      [
+        "A. Parikh",
+        "Natural Questions"
+      ],
+      [
+        "Complex Reasoning CSQA",
+        "XSum"
+      ],
+      [
+        "Graph RAG",
+        "TagRAG"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Qing Ping"
+      ],
+      [
+        "TagRAG",
+        "UltraDomain Legal"
+      ],
+      [
+        "LightRAG",
+        "Response Diversity"
+      ],
+      [
+        "R. Frostig",
+        "Semantic Parsing on Freebase"
+      ],
+      [
+        "Qwen3-4B",
+        "TagTAG"
+      ],
+      [
+        "RAG",
+        "SKR"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "L. Zettlemoyer"
+      ],
+      [
+        "Hipporag: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+        "Yu Su"
+      ],
+      [
+        "Jifan Yu",
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models"
+      ],
+      [
+        "LightRAG",
+        "NaiveRAG"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "M. Lewis"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Yichen Zhu"
+      ],
+      [
+        "B.7 Case Study",
+        "TagRAG"
+      ],
+      [
+        "2023",
+        "H. Zeng"
+      ],
+      [
+        "Graph Neural Networks",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "LightRAG",
+        "Research Questions"
+      ],
+      [
+        "Knowledge Graph",
+        "MiniRAG"
+      ],
+      [
+        "Retrieve, Summarize, Plan",
+        "Zhiqiang Zhang"
+      ],
+      [
+        "COVID-QA",
+        "PubHealth"
+      ],
+      [
+        "LightRAG",
+        "UltraDomain Benchmark"
+      ],
+      [
+        "D. Arora",
+        "S. R. Chowdhury"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Qing Li"
+      ],
+      [
+        "P R",
+        "P t"
+      ],
+      [
+        "Exploring Integration Strategies",
+        "S. Joty"
+      ],
+      [
+        "QA",
+        "Web Questions (WebQ)"
+      ],
+      [
+        "DenseX",
+        "RAG"
+      ],
+      [
+        "Chatrec",
+        "Y. Gao"
+      ],
+      [
+        "H. Deng",
+        "N. Kandpal"
+      ],
+      [
+        "Musique",
+        "N. Balasubramanian"
+      ],
+      [
+        "0.3h",
+        "BDTR"
+      ],
+      [
+        "A. Rastrow",
+        "Using External Off-policy Speech-to-text Mappings in Contextual End-to-end Automated Speech Recognition"
+      ],
+      [
+        "Chao Huang",
+        "Graphgpt: Graph Instruction Tuning for Large Language Models"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Han Xie"
+      ],
+      [
+        "2WikiMultiHopQA",
+        "BDTR Framework"
+      ],
+      [
+        "LightRAG",
+        "Root Mean Squared Error (RMSE)"
+      ],
+      [
+        "Information-Seeking Questions",
+        "M. Gardner"
+      ],
+      [
+        "D. Arora",
+        "arXiv:2310.20158"
+      ],
+      [
+        "GraphRAG",
+        "LightRAG"
+      ],
+      [
+        "In-context Retrieval-Augmented Language Models",
+        "Yoav Shoham"
+      ],
+      [
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation",
+        "W. Zhu"
+      ],
+      [
+        "Diversity",
+        "Overall Winner"
+      ],
+      [
+        "Alex Chao",
+        "Darren Edge"
+      ],
+      [
+        "George Karypis",
+        "Gnn-rag"
+      ],
+      [
+        "MiniRAG",
+        "TagRAG"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Yu Zhang"
+      ],
+      [
+        "LLM",
+        "TagRAG"
+      ],
+      [
+        "H. Zhao",
+        "X. Ma"
+      ],
+      [
+        "Kiddieland Amusement Park",
+        "Little Dipper"
+      ],
+      [
+        "Bridge Questions",
+        "Multi-Hop QA"
+      ],
+      [
+        "BGM",
+        "LLMs"
+      ],
+      [
+        "Jiliang Tang",
+        "Michigan State University"
+      ],
+      [
+        "I. Beltagy",
+        "Information-Seeking Questions"
+      ],
+      [
+        "Long-Form QA ELI5",
+        "NarrativeQA"
+      ],
+      [
+        "Bryan Hooi",
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding"
+      ],
+      [
+        "CS Domain",
+        "UltraDomain Benchmark"
+      ],
+      [
+        "Fudan University",
+        "Shanghai Key Laboratory of Data Science"
+      ],
+      [
+        "W. Peng",
+        "X. Zeng"
+      ],
+      [
+        "Comprehensiveness",
+        "TagRAG"
+      ],
+      [
+        "GraphRAG",
+        "Retrieval-augmented Generation (RAG)"
+      ],
+      [
+        "F. Mi",
+        "H. Wang"
+      ],
+      [
+        "D. Kim",
+        "S. Kim"
+      ],
+      [
+        "Jing Zhang",
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models"
+      ],
+      [
+        "LightRAG",
+        "Zirui Guo"
+      ],
+      [
+        "NaiveRAG",
+        "TagRAG"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "J. Zhao"
+      ],
+      [
+        "Computational Resources",
+        "Feature Selection Techniques"
+      ],
+      [
+        "ISEEQ",
+        "M. Gaur"
+      ],
+      [
+        "Empowerment",
+        "Perspective"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Yongxin Xu"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "Y. Lu"
+      ],
+      [
+        "M. Yasunaga",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "Bowen Jin",
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs"
+      ],
+      [
+        "BDTR Framework",
+        "BGEC"
+      ],
+      [
+        "A. Aghajanyan",
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+      ],
+      [
+        "CommonsenseQA",
+        "Graph QA GraphQA"
+      ],
+      [
+        "Qwen3-4B",
+        "bge-large-en-v1.5"
+      ],
+      [
+        "GraphRAG",
+        "Recall@5"
+      ],
+      [
+        "Graphgpt: Graph Instruction Tuning for Large Language Models",
+        "Yuhao Yang"
+      ],
+      [
+        "Haofen Wang",
+        "Retrieval-Augmented Generation for Large Language Models"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "W. Shi"
+      ],
+      [
+        "ELI5",
+        "QA"
+      ],
+      [
+        "Agriculture",
+        "Dataset Details"
+      ],
+      [
+        "CRUD",
+        "RGB"
+      ],
+      [
+        "P. Jain",
+        "T. Kwiatkowski"
+      ],
+      [
+        "Amnon Shashua",
+        "In-context Retrieval-Augmented Language Models"
+      ],
+      [
+        "FT",
+        "RAG"
+      ],
+      [
+        "Costas Mavromatis",
+        "Gnn-rag"
+      ],
+      [
+        "Graphgpt: Graph Instruction Tuning for Large Language Models",
+        "Wei Wei"
+      ],
+      [
+        "BAAI",
+        "Flagembedding"
+      ],
+      [
+        "Context Curation",
+        "Context Selection/Compression"
+      ],
+      [
+        "Abhinav Pandey",
+        "llama 3"
+      ],
+      [
+        "Embedded Methods",
+        "Lasso Regression"
+      ],
+      [
+        "TagRAG",
+        "UltraDomain CS Dataset"
+      ],
+      [
+        "S. J. Joo",
+        "S. Kim"
+      ],
+      [
+        "BDTR Framework",
+        "PopQA"
+      ],
+      [
+        "Generation",
+        "Retrieval"
+      ],
+      [
+        "GraphRAG Variants",
+        "HippoRAG2"
+      ],
+      [
+        "LightRAG",
+        "Query Generation"
+      ],
+      [
+        "Evaluation Dimensions",
+        "Table 1"
+      ],
+      [
+        "F1",
+        "Implementation and Evaluation Metrics"
+      ],
+      [
+        "CoT Reasoning",
+        "Commonsense Reasoning HellaSwag"
+      ],
+      [
+        "Evaluation Metrics",
+        "Question Answering"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Xiaoxin He"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Dawei Yin"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "M. Eckstein"
+      ],
+      [
+        "GraphRAG",
+        "Iterative Retrieval"
+      ],
+      [
+        "Hierarchical Structure",
+        "RAG"
+      ],
+      [
+        "East China Normal University",
+        "TagRAG"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Validation Techniques"
+      ],
+      [
+        "Ablation Studies",
+        "LightRAG"
+      ],
+      [
+        "Answer 1 (TagRAG)",
+        "Answer 2"
+      ],
+      [
+        "GraphRAG",
+        "IRGS"
+      ],
+      [
+        "W. Peng",
+        "Y. Jiang"
+      ],
+      [
+        "GraphRAG",
+        "TagTAG"
+      ],
+      [
+        "ChatGPT",
+        "LLamaIndex"
+      ],
+      [
+        "H. S. Zheng",
+        "arXiv:2310.06117"
+      ],
+      [
+        "TagRAG",
+        "Xinyuan Li"
+      ],
+      [
+        "In-context Retrieval-Augmented Language Models",
+        "Itay Dalmedigos"
+      ],
+      [
+        "Dense Retrieval Models",
+        "Sparse Retrieval Models"
+      ],
+      [
+        "M. Lewis",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "W. Peng",
+        "Z. Wang"
+      ],
+      [
+        "Empowering Graphrag with Knowledge Filtering and Integration",
+        "Harry Shomer"
+      ],
+      [
+        "H. Trivedi",
+        "Musique"
+      ],
+      [
+        "Chu Xu",
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework"
+      ],
+      [
+        "Query Rewrite",
+        "RRR (Rewrite-retrieve-read)"
+      ],
+      [
+        "Retrieval-Augmented Generation for Large Language Models",
+        "Xinyu Gao"
+      ],
+      [
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models",
+        "Weichuan Liu"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Suhang Wang"
+      ],
+      [
+        "Retrieval-augmented Multi-modal Language Modeling",
+        "W.-T. Yih"
+      ],
+      [
+        "R. Child",
+        "Scaling Laws for Neural Language Models"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "J. Pont-Tuset"
+      ],
+      [
+        "G. Haffar",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "L. Ouyang",
+        "S. Agarwal"
+      ],
+      [
+        "ArchRAG",
+        "GraphRAG"
+      ],
+      [
+        "Naive RAG",
+        "Retrieval Challenges"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Wrapper Methods"
+      ],
+      [
+        "Beekeeper",
+        "Industrial Agriculture"
+      ],
+      [
+        "Beijing University of Posts and Telecommunications",
+        "Zirui Guo"
+      ],
+      [
+        "B. Pouliquen",
+        "R. Steinberger"
+      ],
+      [
+        "Context Curation",
+        "Reranking"
+      ],
+      [
+        "BDTR",
+        "Darren Edge"
+      ],
+      [
+        "F. Xu",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "LLM",
+        "Naive RAG"
+      ],
+      [
+        "Generating Synthetic Speech from Spokenvocab for Speech Translation",
+        "J. Zhao"
+      ],
+      [
+        "Empowerment",
+        "Overall Winner"
+      ],
+      [
+        "T. Fu",
+        "Y. Zhang"
+      ],
+      [
+        "Graph-Based Retrieval Phase",
+        "LightRAG"
+      ],
+      [
+        "LightRAG",
+        "Mean Average Precision (MAP)"
+      ],
+      [
+        "AngIE",
+        "Embedding"
+      ],
+      [
+        "Multi-modal RAG",
+        "UEOP"
+      ],
+      [
+        "2WikiMultiHopQA",
+        "QA"
+      ],
+      [
+        "LLM",
+        "RAG"
+      ],
+      [
+        "Domain Information on Chains",
+        "Knowledge Fusion"
+      ],
+      [
+        "TagRAG",
+        "Weining Qian"
+      ],
+      [
+        "Chain-of-Verification (CoVe)",
+        "Query Optimization"
+      ],
+      [
+        "P. Liang",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Sheng Wang"
+      ],
+      [
+        "K. Lee",
+        "Natural Questions"
+      ],
+      [
+        "LLMs",
+        "LightRAG"
+      ],
+      [
+        "GraphRAG",
+        "Machine Learning Metrics"
+      ],
+      [
+        "Deyu Zou",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "Retrieval Methods",
+        "Retrieval Process"
+      ],
+      [
+        "Domain-Centric Knowledge Summaries",
+        "RAG Paradigm"
+      ],
+      [
+        "Electric Vehicles",
+        "Urban Air Quality"
+      ],
+      [
+        "V. Jain",
+        "WebGPT"
+      ],
+      [
+        "H. Küttler",
+        "P. Lewis"
+      ],
+      [
+        "Filter-Reranker",
+        "LLMLingua"
+      ],
+      [
+        "Counterfactual Robustness",
+        "Generation Quality"
+      ],
+      [
+        "Feature Selection Techniques",
+        "NaiveRAG"
+      ],
+      [
+        "Hybrid Mode",
+        "LightRAG"
+      ],
+      [
+        "IAG",
+        "NoiseRAG"
+      ],
+      [
+        "Exploring Integration Strategies",
+        "S. Yavuz"
+      ],
+      [
+        "GraphRAG",
+        "PathRAG"
+      ],
+      [
+        "Weak-to-Strong GraphRAG",
+        "Yongqiang Chen"
+      ],
+      [
+        "Pan Li",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "LightRAG",
+        "RQ-RAG (Chan et al., 2024)"
+      ],
+      [
+        "LightRAG",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Exact Match",
+        "GraphRAG"
+      ],
+      [
+        "Michigan State University",
+        "Xinnan Dai"
+      ],
+      [
+        "Mini RAG",
+        "TagRAG"
+      ],
+      [
+        "H. S. Zheng",
+        "H.-T. Cheng"
+      ],
+      [
+        "LightRAG",
+        "Naive RAG"
+      ],
+      [
+        "Dynamic Environments",
+        "LightRAG"
+      ],
+      [
+        "Query Optimization",
+        "Sub-Query"
+      ],
+      [
+        "LightRAG",
+        "RAG Systems"
+      ],
+      [
+        "RAG",
+        "Reverse HyDE"
+      ],
+      [
+        "Qwen3-1.7B",
+        "TagRAG"
+      ],
+      [
+        "LLM",
+        "RAG System"
+      ],
+      [
+        "Knowledge Graph",
+        "LightRAG"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Hengyun Li"
+      ],
+      [
+        "G. Izacard",
+        "J. Dwivedi-Yu"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "S. Sengupta"
+      ],
+      [
+        "Advanced RAG",
+        "Naive RAG"
+      ],
+      [
+        "Graphgpt: Graph Instruction Tuning for Large Language Models",
+        "Suqi Cheng"
+      ],
+      [
+        "Ablation Study",
+        "Musique"
+      ],
+      [
+        "Gfm-rag",
+        "Gholamreza Haffari"
+      ],
+      [
+        "Blip-2: Bootstrapping Language-image Pre-training with Frozen Image Encoders and Large Language Models",
+        "J. Li"
+      ],
+      [
+        "S. Borgeaud",
+        "T. Cai"
+      ],
+      [
+        "Data Quality",
+        "Practical Considerations"
+      ],
+      [
+        "GraphGPT",
+        "LLaGA"
+      ],
+      [
+        "Harry Shomer",
+        "University of Texas at Arlington"
+      ],
+      [
+        "Max Rudat",
+        "Rag-ex: A Generic Framework for Explaining Retrieval Augmented Generation"
+      ],
+      [
+        "Medrag",
+        "Xuejiao Zhao"
+      ],
+      [
+        "X. Pan",
+        "Z. Wang"
+      ],
+      [
+        "BDTR Framework",
+        "MuSiQue"
+      ],
+      [
+        "X. Ma",
+        "Y. Gong"
+      ],
+      [
+        "RAG",
+        "Retrieval Quality"
+      ],
+      [
+        "BDTR",
+        "F1"
+      ],
+      [
+        "A. Nagrani",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "2WikiMultiHopQA",
+        "GraphRAG"
+      ],
+      [
+        "IE Event Argument Extraction WikiEvent",
+        "Recommendation Amazon"
+      ],
+      [
+        "MS MARCO",
+        "QA"
+      ],
+      [
+        "GraphRAG",
+        "Knowledge Graph"
+      ],
+      [
+        "RAG",
+        "Small2Big"
+      ],
+      [
+        "C. Raffel",
+        "N. Kandpal"
+      ],
+      [
+        "HotpotQA",
+        "Ruslan Salakhutdinov"
+      ],
+      [
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models",
+        "Yuanchun Wang"
+      ],
+      [
+        "NaiveRAG",
+        "NaiveRAG -High"
+      ],
+      [
+        "Corporate Mergers",
+        "Indigenous Perspectives"
+      ],
+      [
+        "BDTR",
+        "Dual-Thought-Based Retrieval"
+      ],
+      [
+        "Iterative Retrieval",
+        "Question Type Analysis"
+      ],
+      [
+        "J. Devlin",
+        "Natural Questions"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Vassilis N Ioannidis"
+      ],
+      [
+        "Multi-Hop Reasoning",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      [
+        "Pre-Training Language Models",
+        "Sparse Retrieval Models"
+      ],
+      [
+        "Indigenous Perspectives",
+        "Role of Collaboration"
+      ],
+      [
+        "Anna Goldie",
+        "Raptor"
+      ],
+      [
+        "Ablation Study",
+        "Performance Metrics"
+      ],
+      [
+        "A. Sharma",
+        "D. Arora"
+      ],
+      [
+        "Fusion Training",
+        "LLMs-Graphs Integration"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Filter Methods"
+      ],
+      [
+        "M. Collins",
+        "Natural Questions"
+      ],
+      [
+        "Agriculture Domain",
+        "UltraDomain Benchmark"
+      ],
+      [
+        "GraphRAG",
+        "Legal Dataset"
+      ],
+      [
+        "A Graph Rag Approach to Query-Focused Summarization",
+        "Joshua Bradley"
+      ],
+      [
+        "Graph-r1",
+        "Luu Anh Tuan"
+      ],
+      [
+        "Answer 1",
+        "Evaluation Criteria"
+      ],
+      [
+        "Retrieval-augmented Multi-modal Language Modeling",
+        "W. Shi"
+      ],
+      [
+        "Comprehensiveness",
+        "Overall Winner"
+      ],
+      [
+        "Hierarchical Tag Knowledge Graph",
+        "TagRAG"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Multi-Objective Optimization"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Yasha Wang"
+      ],
+      [
+        "M. Joshi",
+        "TriviaQA"
+      ],
+      [
+        "Blip-2: Bootstrapping Language-image Pre-training with Frozen Image Encoders and Large Language Models",
+        "D. Li"
+      ],
+      [
+        "RAG",
+        "Structured Databases"
+      ],
+      [
+        "TagRAG",
+        "bge-large-en-v1.5"
+      ],
+      [
+        "P. Rajpurkar",
+        "SQuAD"
+      ],
+      [
+        "Memory Module",
+        "Modular RAG"
+      ],
+      [
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+        "Yunteng Geng"
+      ],
+      [
+        "Y. Chen",
+        "Y. Zhang"
+      ],
+      [
+        "A. Nagrani",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "Kai Guo",
+        "Michigan State University"
+      ],
+      [
+        "2023",
+        "CMB"
+      ],
+      [
+        "In-context Retrieval-Augmented Language Models",
+        "TACL"
+      ],
+      [
+        "J. Lin",
+        "L. Gao"
+      ],
+      [
+        "Experimental Setup",
+        "UltraDomain"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "W. Y. Wang"
+      ],
+      [
+        "Modular RAG",
+        "Task Adapter Module"
+      ],
+      [
+        "M. Kang",
+        "S. J. Hwang"
+      ],
+      [
+        "IRCoT",
+        "LLM-Knowledge-Boundary"
+      ],
+      [
+        "Blip-2: Bootstrapping Language-image Pre-training with Frozen Image Encoders and Large Language Models",
+        "S. Savarese"
+      ],
+      [
+        "R. Das",
+        "When Not to Trust Language Models"
+      ],
+      [
+        "B. Hoffmeister",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "Rag-ex: A Generic Framework for Explaining Retrieval Augmented Generation",
+        "Sinchana Ramakanth Bhat"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Lasso"
+      ],
+      [
+        "Knowledge-Guided Reasoning",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Domain Knowledge",
+        "Practical Considerations"
+      ],
+      [
+        "Information Extraction",
+        "Recursive Retrieval"
+      ],
+      [
+        "H. Wang",
+        "J. Wen"
+      ],
+      [
+        "LLMs",
+        "LightRAG Framework"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Ruirui Li"
+      ],
+      [
+        "Ladislav Rampášek",
+        "Recipe for a General, Powerful, Scalable Graph Transformer"
+      ],
+      [
+        "Jiawei Sun",
+        "Retrieval-Augmented Generation for Large Language Models"
+      ],
+      [
+        "Lei Hou",
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models"
+      ],
+      [
+        "Cheng Niu",
+        "Ragtruth"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Tat-Seng Chua"
+      ],
+      [
+        "Chulin Xie",
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs"
+      ],
+      [
+        "Hipporag: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+        "Weijian Qi"
+      ],
+      [
+        "Bryan Catanzaro",
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs"
+      ],
+      [
+        "Complex Query Handling",
+        "LightRAG"
+      ],
+      [
+        "Iterative Retrieval",
+        "Multi-Hop QA"
+      ],
+      [
+        "Bo Han",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "RAG Ecosystem",
+        "RAG Technology"
+      ],
+      [
+        "Hipporag: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+        "Sizhe Zhou"
+      ],
+      [
+        "M. Zeng",
+        "W. Yu"
+      ],
+      [
+        "Da Zheng",
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus"
+      ],
+      [
+        "Key-Value Pair Generation",
+        "LLM Profiling"
+      ],
+      [
+        "Multi-Hop Retrieval",
+        "Recursive Retrieval"
+      ],
+      [
+        "E. Choi",
+        "TriviaQA"
+      ],
+      [
+        "E. Zhao",
+        "Y. Zhang"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "R. James"
+      ],
+      [
+        "C. D. Manning",
+        "R. Socher"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Random Forest"
+      ],
+      [
+        "A. Yan",
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation"
+      ],
+      [
+        "I. Polosukhin",
+        "Natural Questions"
+      ],
+      [
+        "Fangcheng Fu",
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "M. Yasunaga"
+      ],
+      [
+        "Christopher D Manning",
+        "HotpotQA"
+      ],
+      [
+        "Empowering Graphrag with Knowledge Filtering and Integration",
+        "Shenglai Zeng"
+      ],
+      [
+        "Haoyu Han",
+        "Michigan State University"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Machine Learning Pipeline"
+      ],
+      [
+        "GraphRAG",
+        "HotpotQA"
+      ],
+      [
+        "Fangzhi Xu",
+        "Graph-r1"
+      ],
+      [
+        "G. Li",
+        "W. Peng"
+      ],
+      [
+        "SKR",
+        "ToC"
+      ],
+      [
+        "L. Cui",
+        "Y. Zhang"
+      ],
+      [
+        "Keyword Extraction",
+        "Relationship Generation"
+      ],
+      [
+        "LightRAG",
+        "Tu Ao"
+      ],
+      [
+        "GraphRAG",
+        "HippoRAG2"
+      ],
+      [
+        "BERT",
+        "Embedding"
+      ],
+      [
+        "GraphRAG",
+        "IRCOT"
+      ],
+      [
+        "Empowering Graphrag with Knowledge Filtering and Integration",
+        "Kai Guo"
+      ],
+      [
+        "Statistics of Knowledge Graph Construction",
+        "TagRAG"
+      ],
+      [
+        "G. Haffar",
+        "Generating Synthetic Speech from Spokenvocab for Speech Translation"
+      ],
+      [
+        "Graph-Based Text Indexing",
+        "LightRAG"
+      ],
+      [
+        "NaiveRAG -Origin",
+        "Retrieval Process"
+      ],
+      [
+        "Dialog Generation Wizard of Wikipedia",
+        "Personal Dialog KBP"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Houyu Zhang"
+      ],
+      [
+        "Dual-Feedback Knowledge Retrieval",
+        "T. Shi"
+      ],
+      [
+        "Embedding",
+        "MTEB Leaderboard"
+      ],
+      [
+        "Bridge-type Questions",
+        "DTR"
+      ],
+      [
+        "Demonstrate-Search-Predict Framework",
+        "Modular RAG"
+      ],
+      [
+        "C. D. Manning",
+        "P. Sarthi"
+      ],
+      [
+        "Retrieval-Augmented Generation for Large Language Models",
+        "Yixin Dai"
+      ],
+      [
+        "L. Liu",
+        "Y. Zhang"
+      ],
+      [
+        "A. Miech",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "P. Lewis",
+        "T. Rocktäsche"
+      ],
+      [
+        "Ragtruth",
+        "Randy Zhong"
+      ],
+      [
+        "A. Mensch",
+        "S. Borgeaud"
+      ],
+      [
+        "P R",
+        "RC"
+      ],
+      [
+        "Advances In Neural Information Processing Systems",
+        "Täschel"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "KDD"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Yi Xu"
+      ],
+      [
+        "C. Xiong",
+        "Z. Yu"
+      ],
+      [
+        "2021",
+        "R. Y. Pang"
+      ],
+      [
+        "GraphRAG",
+        "Mariam Barry"
+      ],
+      [
+        "Dominique Beaini",
+        "Recipe for a General, Powerful, Scalable Graph Transformer"
+      ],
+      [
+        "Agri",
+        "Domain Tag Chain Organization"
+      ],
+      [
+        "C. Burns",
+        "D. Hendrycks"
+      ],
+      [
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models",
+        "Shangqing Tu"
+      ],
+      [
+        "S. Wang",
+        "W. Yu"
+      ],
+      [
+        "Domain-Centric Knowledge Summary",
+        "Knowledge Fusion"
+      ],
+      [
+        "Advanced RAG",
+        "Pre-Retrieval Process"
+      ],
+      [
+        "LightRAG",
+        "LightRAG Framework"
+      ],
+      [
+        "Ragtruth",
+        "Yuanhao Wu"
+      ],
+      [
+        "GraphRAG",
+        "HippoRAG"
+      ],
+      [
+        "Akari Asai",
+        "Language Model Trustworthiness"
+      ],
+      [
+        "Bin Cui",
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey"
+      ],
+      [
+        "RAG",
+        "Retrieval Source"
+      ],
+      [
+        "D. Roth",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "Exploring Integration Strategies",
+        "Y. Liu"
+      ],
+      [
+        "C. Xiong",
+        "Exploring Integration Strategies"
+      ],
+      [
+        "A. Yang",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "Object Tag Keyword Extraction",
+        "TagRAG"
+      ],
+      [
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+        "Zhengren Wang"
+      ],
+      [
+        "R. James",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "H. S. Zheng",
+        "S. Mishra"
+      ],
+      [
+        "TagRAG",
+        "glm-edge-1.5b-chat"
+      ],
+      [
+        "Gfm-rag",
+        "Zicheng Zhao"
+      ],
+      [
+        "Daniel Khashabi",
+        "Language Model Trustworthiness"
+      ],
+      [
+        "Naive RAG",
+        "TagRAG"
+      ],
+      [
+        "Exploring Integration Strategies",
+        "R. Meng"
+      ],
+      [
+        "Graphgpt: Graph Instruction Tuning for Large Language Models",
+        "Lei Shi"
+      ],
+      [
+        "BDTR",
+        "EM"
+      ],
+      [
+        "A. Chou",
+        "Semantic Parsing on Freebase"
+      ],
+      [
+        "Global Knowledge",
+        "TagRAG"
+      ],
+      [
+        "Graph-r1",
+        "Yifan Zhu"
+      ],
+      [
+        "Beijing University of Posts and Telecommunications",
+        "Tu Ao"
+      ],
+      [
+        "A. Miech",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "B. Hoffmeister",
+        "Using External Off-policy Speech-to-text Mappings in Contextual End-to-end Automated Speech Recognition"
+      ],
+      [
+        "O. Ram",
+        "Y. Levine"
+      ],
+      [
+        "M. Lewis",
+        "P. Lewis"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Liangbo Ning"
+      ],
+      [
+        "HotpotQA",
+        "Yoshua Bengio"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "W. Zhu"
+      ],
+      [
+        "Haoyu Han",
+        "Retrieval-Augmented Generation with Graphs"
+      ],
+      [
+        "J. Callan",
+        "L. Gao"
+      ],
+      [
+        "J.-B. Lespiau",
+        "S. Borgeaud"
+      ],
+      [
+        "HotpotQA",
+        "comparison"
+      ],
+      [
+        "LightRAG",
+        "RQ-RAG"
+      ],
+      [
+        "A Graph Rag Approach to Query-Focused Summarization",
+        "Dasha Metropolitansky"
+      ],
+      [
+        "Chunking",
+        "RAG Systems"
+      ],
+      [
+        "Modular RAG",
+        "Predict Module"
+      ],
+      [
+        "Graph-Based RAG (GraphRAG)",
+        "Multi-Hop Reasoning"
+      ],
+      [
+        "LLMs",
+        "SLMs"
+      ],
+      [
+        "GraphRAG",
+        "Table 3"
+      ],
+      [
+        "Juno Zhu",
+        "Ragtruth"
+      ],
+      [
+        "GraphRAG Variants",
+        "Table 2"
+      ],
+      [
+        "GPT-4o-mini",
+        "LightRAG"
+      ],
+      [
+        "L. Zettlemoyer",
+        "O. Levy"
+      ],
+      [
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models",
+        "Yaran Shi"
+      ],
+      [
+        "J. He",
+        "Neuro-symbolic Language Modeling with Automaton-augmented Retrieval"
+      ],
+      [
+        "N. Duan",
+        "X. Ma"
+      ],
+      [
+        "D. M. Chan",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "Mohammad Shoeybi",
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs"
+      ],
+      [
+        "GraphRAG",
+        "Large Language Models"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Wine Quality Dataset"
+      ],
+      [
+        "TagRAG",
+        "UltraDomain Agriculture"
+      ],
+      [
+        "Cultural Significance of Land Ownership",
+        "Indigenous Perspectives"
+      ],
+      [
+        "B. Damoc",
+        "S. Borgeaud"
+      ],
+      [
+        "LightRAG",
+        "Yanhua Yu"
+      ],
+      [
+        "B.5 Visualization of Knowledge Graph Construction",
+        "UltraDomain Mix"
+      ],
+      [
+        "GraphRAG",
+        "Recall@10"
+      ],
+      [
+        "GenRead",
+        "RAG"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "S. Ghosh"
+      ],
+      [
+        "Alex Mallen",
+        "Language Model Trustworthiness"
+      ],
+      [
+        "B.3 Cross-domain Incremental Analysis",
+        "Mix Dataset"
+      ],
+      [
+        "A. Mallen",
+        "When Not to Trust Language Models"
+      ],
+      [
+        "Retrieval-Augmented Generation for Large Language Models",
+        "Yuxi Bi"
+      ],
+      [
+        "J. Wu",
+        "L. Ouyang"
+      ],
+      [
+        "Feature Selection Techniques",
+        "LightRAG"
+      ],
+      [
+        "ITER-RETGEN",
+        "RAPTOR"
+      ],
+      [
+        "Flare",
+        "Self-RAG"
+      ],
+      [
+        "J. Baek",
+        "Knowledge-Augmented Language Model Verification"
+      ],
+      [
+        "Generation Quality",
+        "Negative Rejection"
+      ],
+      [
+        "A. Yang",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "Michael Galkin",
+        "Recipe for a General, Powerful, Scalable Graph Transformer"
+      ],
+      [
+        "ARES",
+        "RAGAS"
+      ],
+      [
+        "H. Hajishirzi",
+        "Semantic Parsing on Freebase"
+      ],
+      [
+        "BM25",
+        "Embedding"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "J. Leskovec"
+      ],
+      [
+        "L. Ouyang",
+        "P. Mishkin"
+      ],
+      [
+        "R. Ren",
+        "Y. Wang"
+      ],
+      [
+        "D. Li",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Jun Ma"
+      ],
+      [
+        "E. Wallace",
+        "N. Kandpal"
+      ],
+      [
+        "Juanzi Li",
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models"
+      ],
+      [
+        "Mixed Domain",
+        "UltraDomain Benchmark"
+      ],
+      [
+        "Legal Dataset",
+        "Table 2"
+      ],
+      [
+        "Frameworks",
+        "Multi-hop QA Datasets"
+      ],
+      [
+        "V. Blagojevi",
+        "https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5"
+      ],
+      [
+        "P. Zhang",
+        "S. Xiao"
+      ],
+      [
+        "Exploring Integration Strategies",
+        "M. Moorthy"
+      ],
+      [
+        "N. Kandpal",
+        "arXiv:2309.01219"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "U. Alon"
+      ],
+      [
+        "A Graph Rag Approach to Query-Focused Summarization",
+        "Jonathan Larson"
+      ],
+      [
+        "Generation Quality",
+        "RAG"
+      ],
+      [
+        "D. Ou",
+        "W. Peng"
+      ],
+      [
+        "K. Slama",
+        "L. Ouyang"
+      ],
+      [
+        "BDTR",
+        "GraphRAG"
+      ],
+      [
+        "Graph Structures",
+        "RAG Systems"
+      ],
+      [
+        "Embedding Model",
+        "LSR (LM-Supervised Retriever)"
+      ],
+      [
+        "Neuro-symbolic Language Modeling with Automaton-augmented Retrieval",
+        "S. Sengupta"
+      ],
+      [
+        "Rag-ex: A Generic Framework for Explaining Retrieval Augmented Generation",
+        "Roman Teucher"
+      ],
+      [
+        "JSON Format",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus",
+        "Xiang Song"
+      ],
+      [
+        "Qwen3-4B",
+        "TagRAG"
+      ],
+      [
+        "D. Epstein",
+        "Natural Questions"
+      ],
+      [
+        "Machine Learning Metrics",
+        "Movie Recommendation Systems"
+      ],
+      [
+        "S. Borgeaud",
+        "V. Blagojevi"
+      ],
+      [
+        "Text Generation Biography",
+        "Text Summarization WikiASP"
+      ],
+      [
+        "Augmentation",
+        "Retrieval"
+      ],
+      [
+        "W. Yu",
+        "Y. Xu"
+      ],
+      [
+        "J. Hoffmann",
+        "S. Borgeaud"
+      ],
+      [
+        "Musique",
+        "T. Khot"
+      ],
+      [
+        "Natural Questions",
+        "T. Kwiatkowski"
+      ],
+      [
+        "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "P. Liang"
+      ],
+      [
+        "Exact Match (EM)",
+        "Implementation and Evaluation Metrics"
+      ],
+      [
+        "I. Ilin",
+        "https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6"
+      ],
+      [
+        "GraphRAG",
+        "HiRAG"
+      ],
+      [
+        "Dinh Phung",
+        "Gfm-rag"
+      ],
+      [
+        "G. B. Van Den Driessche",
+        "S. Borgeaud"
+      ],
+      [
+        "Advanced RAG 01",
+        "S. Yang"
+      ],
+      [
+        "James Cheng",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "P. Lewis",
+        "V. Karpukhin"
+      ],
+      [
+        "Bridge Entities",
+        "Bridge Questions"
+      ],
+      [
+        "GraphRAG",
+        "NaiveRAG"
+      ],
+      [
+        "HippoRAG2",
+        "RAPTOR"
+      ],
+      [
+        "E. Choi",
+        "O. Levy"
+      ],
+      [
+        "LLaGA",
+        "Runjin Chen"
+      ],
+      [
+        "G-Retriever",
+        "X. He"
+      ],
+      [
+        "Beijing University of Posts and Telecommunications",
+        "Yanhua Yu"
+      ],
+      [
+        "M. Ju",
+        "W. Yu"
+      ],
+      [
+        "Naive RAG",
+        "RAG"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Rihong Qiu"
+      ],
+      [
+        "Modular RAG",
+        "Search Module"
+      ],
+      [
+        "E. Shareghi",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Zheng Li"
+      ],
+      [
+        "IRGS",
+        "Multi-Hop QA"
+      ],
+      [
+        "Parth Sarthi",
+        "Raptor"
+      ],
+      [
+        "Language Model Trustworthiness",
+        "Rajarshi Das"
+      ],
+      [
+        "DuleMon",
+        "Task-oriented Dialog CamRest"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Yifei Sun"
+      ],
+      [
+        "1.1h",
+        "HippoRAG2"
+      ],
+      [
+        "N. Goyal",
+        "P. Lewis"
+      ],
+      [
+        "D. Roth",
+        "Neuro-symbolic Language Modeling with Automaton-augmented Retrieval"
+      ],
+      [
+        "Generation Quality",
+        "Information Integration"
+      ],
+      [
+        "BLIP-2",
+        "Multi-modal RAG"
+      ],
+      [
+        "Jiliang Tang",
+        "Rag vs. Graphrag: A Systematic Evaluation and Key Insights"
+      ],
+      [
+        "Frameworks",
+        "Table 1"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "J. He"
+      ],
+      [
+        "Lianghao Xia",
+        "LightRAG"
+      ],
+      [
+        "Retrieval-Augmented Generation for Large Language Models",
+        "Robert Osazuwa Ness"
+      ],
+      [
+        "Canada",
+        "Indigenous Perspectives"
+      ],
+      [
+        "A. Holtzman",
+        "R. Zellers"
+      ],
+      [
+        "RAG",
+        "RAG Technology"
+      ],
+      [
+        "A. Aghajanyan",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Shijie Wang"
+      ],
+      [
+        "B. Chess",
+        "Scaling Laws for Neural Language Models"
+      ],
+      [
+        "VoyageAI",
+        "embedding models"
+      ],
+      [
+        "Natural Questions",
+        "O. Redfield"
+      ],
+      [
+        "Query Rewrite",
+        "Query Transformation"
+      ],
+      [
+        "Modular RAG",
+        "Naive RAG"
+      ],
+      [
+        "GPT",
+        "LLMLingua"
+      ],
+      [
+        "Exploring Integration Strategies",
+        "Y. Zhou"
+      ],
+      [
+        "Dual-Level Retrieval Paradigm",
+        "LightRAG"
+      ],
+      [
+        "LLMs",
+        "Object Tag Keyword Extraction"
+      ],
+      [
+        "P. Lewis",
+        "W.-T. Yih"
+      ],
+      [
+        "HotpotQA",
+        "Saizheng Zhang"
+      ],
+      [
+        "Graph-r1",
+        "Meina Song"
+      ],
+      [
+        "Ultradomain",
+        "datasets"
+      ],
+      [
+        "GPT",
+        "H. Yang"
+      ],
+      [
+        "D. M. Chan",
+        "Using External Off-policy Speech-to-text Mappings in Contextual End-to-end Automated Speech Recognition"
+      ],
+      [
+        "Jiajie Zhang",
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models"
+      ],
+      [
+        "Domain Knowledge",
+        "Feature Selection Techniques"
+      ],
+      [
+        "Naive RAG",
+        "RAG System"
+      ],
+      [
+        "A. Cohan",
+        "Information-Seeking Questions"
+      ],
+      [
+        "Demonstrate-Search-Predict",
+        "O. Khattab"
+      ],
+      [
+        "Fabula",
+        "P. Ranade"
+      ],
+      [
+        "Shanghai Research Institute for Intelligent Autonomous Systems",
+        "Tongji University"
+      ],
+      [
+        "D. Iter",
+        "W. Yu"
+      ],
+      [
+        "Model Type",
+        "Practical Considerations"
+      ],
+      [
+        "Mufei Li",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Yujuan Ding"
+      ],
+      [
+        "Ling Yang",
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey"
+      ],
+      [
+        "Processing Phase",
+        "RAG"
+      ],
+      [
+        "D ST",
+        "P t"
+      ],
+      [
+        "Keyword Extraction",
+        "LightRAG"
+      ],
+      [
+        "HyDE",
+        "LightRAG"
+      ],
+      [
+        "V. Zhong",
+        "When Not to Trust Language Models"
+      ],
+      [
+        "Darren Edge",
+        "Newman Cheng"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Alex Chao"
+      ],
+      [
+        "LLMLingua",
+        "SANTA Framework"
+      ],
+      [
+        "GraphRAG",
+        "MiniRAG"
+      ],
+      [
+        "Cbr-rag",
+        "Nirmalie Wiratunga"
+      ],
+      [
+        "Chao Huang",
+        "LightRAG"
+      ],
+      [
+        "Boci Peng",
+        "Graph Retrieval-Augmented Generation"
+      ],
+      [
+        "Misinformation",
+        "RAG"
+      ],
+      [
+        "D. S. Weld",
+        "TriviaQA"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Kashob Kumar Roy"
+      ],
+      [
+        "Aaron Grattafiori",
+        "llama 3"
+      ],
+      [
+        "Advanced RAG",
+        "Modular RAG"
+      ],
+      [
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation",
+        "X. E. Wang"
+      ],
+      [
+        "A. Clark",
+        "S. Borgeaud"
+      ],
+      [
+        "Little Dipper",
+        "Six Flags Great America"
+      ],
+      [
+        "J. Leskovec",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "GraphRAG",
+        "MuSiQue"
+      ],
+      [
+        "Christopher D Manning",
+        "Raptor"
+      ],
+      [
+        "Y. Ren",
+        "Z. Lin"
+      ],
+      [
+        "Australia",
+        "Indigenous Perspectives"
+      ],
+      [
+        "CRAG",
+        "RAG"
+      ],
+      [
+        "F1 Score",
+        "LightRAG"
+      ],
+      [
+        "TagRAG",
+        "UltraDomain Benchmark"
+      ],
+      [
+        "HotpotQA",
+        "Peng Qi"
+      ],
+      [
+        "M. Lapata",
+        "S. Narayan"
+      ],
+      [
+        "KG",
+        "RAG System"
+      ],
+      [
+        "ACL 2020 Workshop on Natural Language Processing for COVID-19 (NLP-COVID)",
+        "Covid-QA"
+      ],
+      [
+        "HotpotQA",
+        "William W Cohen"
+      ],
+      [
+        "RAG",
+        "Super-Long Contexts"
+      ],
+      [
+        "S. Gray",
+        "Scaling Laws for Neural Language Models"
+      ],
+      [
+        "L. Luo",
+        "Reasoning on Graphs"
+      ],
+      [
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation",
+        "W. Xu"
+      ],
+      [
+        "BDTR",
+        "Bridge-Guided Evidence Calibration"
+      ],
+      [
+        "BDTR",
+        "DTR"
+      ],
+      [
+        "N. Kandpal",
+        "RAG"
+      ],
+      [
+        "GraphRAG",
+        "TagRAG"
+      ],
+      [
+        "E. H. Chi",
+        "H. S. Zheng"
+      ],
+      [
+        "A Survey on Rag Meeting LLMs",
+        "Wenqi Fan"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Yuchen Fang"
+      ],
+      [
+        "Large Language Models",
+        "Neurobiologically Inspired Long-Term Memory"
+      ],
+      [
+        "B.4 Statistics of Knowledge Graph Construction",
+        "TagRAG"
+      ],
+      [
+        "Cross-domain Incremental Analysis",
+        "TagRAG"
+      ],
+      [
+        "BDTR",
+        "Musique"
+      ],
+      [
+        "F. Xu",
+        "Neuro-symbolic Language Modeling with Automaton-augmented Retrieval"
+      ],
+      [
+        "Abhimanyu Dubey",
+        "llama 3"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Nitesh Chawla"
+      ],
+      [
+        "Penghao Zhao",
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey"
+      ],
+      [
+        "2021",
+        "P. Dasigi"
+      ],
+      [
+        "Chenxi Liu",
+        "Weak-to-Strong GraphRAG"
+      ],
+      [
+        "ITER-RETGEN",
+        "Modular RAG"
+      ],
+      [
+        "Contrastive Learning",
+        "RECOMP"
+      ],
+      [
+        "Modular RAG",
+        "RAG Frameworks"
+      ],
+      [
+        "HyDE",
+        "Query Transformation"
+      ],
+      [
+        "Advanced RAG",
+        "RAG Frameworks"
+      ],
+      [
+        "Knowledge Graph (KG)",
+        "RAG"
+      ],
+      [
+        "Knowledge Fusion",
+        "Specialized Knowledge in Objects"
+      ],
+      [
+        "Ragraph: A General Retrieval-Augmented Graph Learning Framework",
+        "Xinke Jiang"
+      ],
+      [
+        "Visualize Before You Write: Imagination-guided Open-ended Text Generation",
+        "W. Y. Wang"
+      ],
+      [
+        "Hipporag: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+        "Yiheng Shu"
+      ],
+      [
+        "F. Luo",
+        "M. Surdeanu"
+      ],
+      [
+        "M. Seo",
+        "O. Levy"
+      ],
+      [
+        "Indigenous Perspectives",
+        "Legal and Regulatory Frameworks"
+      ],
+      [
+        "LightRAG",
+        "Table 3"
+      ],
+      [
+        "Rag vs. Graphrag: A Systematic Evaluation and Key Insights",
+        "Yu Wang"
+      ],
+      [
+        "RAMS",
+        "Relation Extraction T-REx"
+      ],
+      [
+        "H. Yang",
+        "W. Bi"
+      ],
+      [
+        "Carl Yang",
+        "Graph-Aware Language Model Pre-Training on a Large Graph Corpus"
+      ],
+      [
+        "Domain Tag Chain Organization",
+        "Legal"
+      ],
+      [
+        "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding",
+        "Yijun Tian"
+      ],
+      [
+        "BDTR",
+        "Newman Cheng"
+      ],
+      [
+        "A Graph Rag Approach to Query-Focused Summarization",
+        "Steven Truitt"
+      ],
+      [
+        "RAGAS",
+        "TruLens"
+      ],
+      [
+        "Lei Liang",
+        "Retrieve, Summarize, Plan"
+      ],
+      [
+        "R. Zellers",
+        "Y. Bisk"
+      ],
+      [
+        "R-eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models",
+        "Xiaozhi Wang"
+      ],
+      [
+        "Overall",
+        "TagRAG"
+      ],
+      [
+        "F. Shi",
+        "Language Model Distraction"
+      ],
+      [
+        "QA",
+        "TriviaQA (TQA)"
+      ],
+      [
+        "Natural Question (NQ)",
+        "QA"
+      ],
+      [
+        "Jiaxuan You",
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs"
+      ],
+      [
+        "Dataset Details",
+        "Legal"
+      ],
+      [
+        "D. Almeida",
+        "L. Ouyang"
+      ],
+      [
+        "LightRAG",
+        "RAG Evaluation"
+      ],
+      [
+        "I. Laptev",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "International Conference on Machine Learning",
+        "S. Hoi"
+      ],
+      [
+        "C. Zhu",
+        "W. Yu"
+      ],
+      [
+        "Fine-tuning",
+        "RAG"
+      ],
+      [
+        "Darren Edge",
+        "Joshua Bradley"
+      ],
+      [
+        "Rearag: Knowledge-Guided Reasoning Enhances Factuality of Large Reasoning Models",
+        "Zhicheng Lee"
+      ],
+      [
+        "GDTR",
+        "HippoRAG"
+      ],
+      [
+        "NaiveRAG",
+        "NaiveRAG -Low"
+      ],
+      [
+        "Adaptive Retrieval",
+        "RAG"
+      ],
+      [
+        "G-Retriever",
+        "Ge-Structured Data"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Pearsons Correlation"
+      ],
+      [
+        "TagRAG",
+        "nano-vectordb"
+      ],
+      [
+        "A. Yan",
+        "International Conference on Machine Learning"
+      ],
+      [
+        "BDTR",
+        "Ha Trinh"
+      ],
+      [
+        "Guy Wolf",
+        "Recipe for a General, Powerful, Scalable Graph Transformer"
+      ],
+      [
+        "1.7h",
+        "BDTR"
+      ],
+      [
+        "Advanced RAG",
+        "Post-Retrieval Process"
+      ],
+      [
+        "J. Zhang",
+        "SQuAD"
+      ],
+      [
+        "Chao Zhang",
+        "Rankrag: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs"
+      ],
+      [
+        "D. Khashabi",
+        "Semantic Parsing on Freebase"
+      ],
+      [
+        "BDTR Framework",
+        "HotpotQA"
+      ],
+      [
+        "Scaling Laws for Neural Language Models",
+        "T. B. Brown"
+      ],
+      [
+        "Indexing Optimization",
+        "RAG"
+      ],
+      [
+        "TagRAG",
+        "Yunshi Lan"
+      ],
+      [
+        "L. Zettlemoyer",
+        "Retrieval-augmented Multi-modal Language Modeling"
+      ],
+      [
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+        "arXiv"
+      ],
+      [
+        "BGE",
+        "Embedding"
+      ],
+      [
+        "Feature Selection Techniques",
+        "Model Type"
+      ],
+      [
+        "CS",
+        "Dataset Details"
+      ],
+      [
+        "Mix Dataset",
+        "UltraDomain CS Dataset"
+      ],
+      [
+        "ChatGPT",
+        "LangChain"
+      ],
+      [
+        "Graphgpt: Graph Instruction Tuning for Large Language Models",
+        "Jiabin Tang"
+      ],
+      [
+        "E. Shareghi",
+        "Generating Synthetic Speech from Spokenvocab for Speech Translation"
+      ],
+      [
+        "C-MTEB",
+        "Embedding"
+      ],
+      [
+        "Bernal Jiménez Gutiérrez",
+        "Hipporag: Neurobiologically Inspired Long-Term Memory for Large Language Models"
+      ],
+      [
+        "Hongjin Qian",
+        "Memorag"
+      ],
+      [
+        "J. Pont-Tuset",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "CS",
+        "Domain Tag Chain Organization"
+      ],
+      [
+        "Large Language Models",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Chen Gong",
+        "Gfm-rag"
+      ],
+      [
+        "I. Laptev",
+        "Vid2seq: Large-scale Pretraining of a Visual Language Model for Dense Video Captioning"
+      ],
+      [
+        "Blip-2: Bootstrapping Language-image Pre-training with Frozen Image Encoders and Large Language Models",
+        "S. Hoi"
+      ],
+      [
+        "Multi-modal RAG",
+        "RA-CM3"
+      ],
+      [
+        "Domain Centric Knowledge Retrieval",
+        "TagRAG"
+      ],
+      [
+        "Neuro-symbolic Language Modeling with Automaton-augmented Retrieval",
+        "U. Alon"
+      ],
+      [
+        "S. Wang",
+        "Training Data"
+      ],
+      [
+        "Directed Acyclic Graph (DAG)",
+        "Domain Tag Chain"
+      ],
+      [
+        "Bridge-Guided Dual-Thought-based Retrieval",
+        "Graph-based Retrieval-Augmented Generation"
+      ],
+      [
+        "RAPTOR",
+        "RAPTOR w/ BDTR"
+      ],
+      [
+        "LLMs",
+        "TagRAG"
+      ],
+      [
+        "Qinhan Yu",
+        "Retrieval-Augmented Generation for AI-Generated Content: A Survey"
+      ],
+      [
+        "Legal Domain",
+        "UltraDomain Benchmark"
+      ],
+      [
+        "M. Jiang",
+        "W. Yu"
+      ],
+      [
+        "H. Wang",
+        "Z. Liu"
+      ],
+      [
+        "Query Optimization",
+        "Query Routing"
+      ],
+      [
+        "Lianghao Xia",
+        "University of Hong Kong"
+      ],
+      [
+        "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+        "Jiawei Zhang"
+      ],
+      [
+        "BDTR Framework",
+        "HippoRAG"
+      ],
+      [
+        "Kiddieland Amusement Park",
+        "Six Flags Great America"
+      ]
+    ],
+    "count": 922,
+    "create_time": 1780583677,
+    "update_time": 1780583677,
+    "_id": "doc-85131a61f2f4c7d724e35ef59bd6a9db"
+  }
+}

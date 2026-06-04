@@ -1,0 +1,10 @@
+QUESTION: In which cases is standard RAG still useful compared to graph-based approaches?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.32s
+TOKENS_IN: 594
+TOKENS_OUT: 38
+COST_USD: $0.000112
+
+ANSWER:
+The context does not provide specific information about the cases in which standard RAG is still useful compared to graph-based approaches. Therefore, I cannot answer the question clearly based on the provided information.

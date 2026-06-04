@@ -1,0 +1,10 @@
+QUESTION: What are the computational costs of building a GraphRAG index compared to a simple vector store?
+
+SYSTEM: Baseline RAG
+LATENCY: 2.1s
+TOKENS_IN: 749
+TOKENS_OUT: 89
+COST_USD: $0.000166
+
+ANSWER:
+The context does not provide specific numerical values or detailed comparisons regarding the computational costs of building a GraphRAG index versus a simple vector store. It mentions that existing GraphRAG methods incur substantial costs due to high-intensity model calls and frequent full graph reconstructions, but it does not quantify these costs or directly compare them to those of a simple vector store. Therefore, I cannot provide a definitive answer to the question based on the given information.

@@ -1,0 +1,10 @@
+QUESTION: Why might graph-based RAG systems produce fewer hallucinations than naive RAG systems?
+
+SYSTEM: Baseline RAG
+LATENCY: 2.1s
+TOKENS_IN: 638
+TOKENS_OUT: 128
+COST_USD: $0.000172
+
+ANSWER:
+Graph-based RAG systems might produce fewer hallucinations than naive RAG systems because they support structured reasoning over multi-hop paths, allowing for more effective linking of multiple pieces of evidence. This structured approach can improve the precision and recall during the retrieval phase, reducing the likelihood of selecting misaligned or irrelevant information. Additionally, graph-based systems can leverage iterative retrieval strategies, which enhance the evidence selection process by performing multiple rounds of retrieval, thereby increasing the chances of obtaining crucial information that may be missed in a single-shot static retrieval approach. This dynamic and systematic method of evidence selection helps mitigate the issues of hallucination that naive RAG systems often face.

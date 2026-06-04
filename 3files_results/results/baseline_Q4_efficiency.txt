@@ -1,0 +1,10 @@
+QUESTION: Compare the efficiency of GraphRAG and TagRAG in terms of construction and retrieval time.
+
+SYSTEM: Baseline RAG
+LATENCY: 1.96s
+TOKENS_IN: 643
+TOKENS_OUT: 75
+COST_USD: $0.000141
+
+ANSWER:
+TagRAG demonstrates significantly better efficiency compared to GraphRAG in both construction and retrieval time. Specifically, TagRAG achieves a 14.6× gain in construction efficiency and a 1.9× gain in retrieval efficiency over GraphRAG. In contrast, GraphRAG is noted for its high construction and inference costs, indicating that it is less efficient overall.

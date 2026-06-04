@@ -1,0 +1,10 @@
+QUESTION: What are the most promising future research directions for improving RAG systems beyond graph-based approaches?
+
+SYSTEM: Baseline RAG
+LATENCY: 1.48s
+TOKENS_IN: 584
+TOKENS_OUT: 60
+COST_USD: $0.000124
+
+ANSWER:
+The context provided does not contain specific information about promising future research directions for improving RAG systems beyond graph-based approaches. It primarily discusses current challenges, existing methods, and the focus on optimization within graph-based RAG systems. Therefore, I cannot provide an answer to the question based on the given context.
