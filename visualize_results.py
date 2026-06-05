@@ -3,6 +3,7 @@ RAG Comparison Dashboard v2 — Fixed & Improved
 """
 
 import json
+import decimal
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
@@ -39,6 +40,12 @@ QTYPE_LABELS  = ["Factual", "Explanation", "Comparison", "Reasoning"]
 
 IND_DPI = 180
 
+def fmt(val, decimals=2):
+    """Format a float rounding half-up (avoids Python's banker's rounding)."""
+    q = decimal.Decimal("0." + "0" * decimals)
+    return str(decimal.Decimal(str(round(val, decimals + 2))).quantize(
+        q, rounding=decimal.ROUND_HALF_UP))
+
 def load():
     with open(DATA_FILE) as f:
         raw = json.load(f)
@@ -47,8 +54,9 @@ def load():
         val = raw[sys]
         items = val["items"]
         averages[sys] = {m: float(np.mean([i["scores"][m] for i in items])) for m in METRICS}
-        averages[sys]["overall"] = float(val["overall"])
-        latency[sys]  = float(val["avg_latency"])
+        # Recompute overall and latency from items directly (avoids pre-rounded JSON fields)
+        averages[sys]["overall"] = float(np.mean([i["avg_score"] for i in items]))
+        latency[sys]  = float(np.mean([i["latency"] for i in items]))
         per_q[sys]    = items
     return averages, per_q, latency
 
@@ -157,11 +165,11 @@ def chart_overall_bar(averages, latency):
                   alpha=0.87, edgecolor="white", width=0.55)
 
     for i, (bar, val, sys) in enumerate(zip(bars, overalls, SYSTEMS)):
-        # Score on top
+        # Score on top — fmt() uses ROUND_HALF_UP to avoid Python banker's rounding
         ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.04,
-                f"{val:.2f}", ha="center", va="bottom",
+                fmt(val), ha="center", va="bottom",
                 fontsize=12, fontweight="bold", color=COLORS[sys])
-        # Latency inside bar (white text)
+        # Latency inside bar (white text) — show 1 decimal
         ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() / 2,
                 f"{latency[sys]:.1f}s", ha="center", va="center",
                 fontsize=10, color="white", fontweight="bold")

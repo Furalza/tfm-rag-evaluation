@@ -19,7 +19,6 @@ All five systems were evaluated on the same 20-question benchmark, using the sam
 ```
 .
 ├── questions/                    # 20-question benchmark (shared across all systems)
-├── data/                         # Document corpus (PDF source files)
 ├── baseline_rag/                 # Baseline RAG system files
 ├── lightrag_rag/                 # LightRAG system files
 ├── microsoft_graphrag/           # GraphRAG system files
